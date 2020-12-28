@@ -1,0 +1,16 @@
+PODS:
+  - SwiftQuadTree (0.1.0)
+
+DEPENDENCIES:
+  - SwiftQuadTree (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftQuadTree:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftQuadTree: de43e8106d6d8df2fd2ef543a3ba1c1c8d5ac469
+
+PODFILE CHECKSUM: 77a2a3537353615af3faa8bab1a9a6a919d763b5
+
+COCOAPODS: 1.10.0

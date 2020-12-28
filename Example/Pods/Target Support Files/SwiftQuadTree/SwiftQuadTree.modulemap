@@ -1,0 +1,6 @@
+framework module SwiftQuadTree {
+  umbrella header "SwiftQuadTree-umbrella.h"
+
+  export *
+  module * { export * }
+}
