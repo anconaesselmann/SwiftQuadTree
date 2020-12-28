@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftQuadTree_Tests' do
+  pod 'SwiftQuadTree', :path => '../'
+  
+  
+end
